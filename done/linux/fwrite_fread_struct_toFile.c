@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 
 	struct T data = {100, 'a'};
 
-	FILE *fp = fopen("./1", "w+");
+	FILE *fp = fopen("./data", "w+");
 	
 	fwrite(&data, sizeof(struct T), 1, fp);
 
