@@ -1,3 +1,5 @@
-# .config
-random file for arch
-havent sort out where to put them yet
+# My dot files
+
+Configurations for xinit, bash, vim and a picture of my faviour Peppa pig
+
+![](./peppapig.jpg)
