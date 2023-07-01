@@ -10,9 +10,6 @@
 #redshift -P -O 5400; 
 #redshift -P -O 3600;
 
-# key rate
-xset r rate 170 20; 
-
 # compositor
 # picom &
 
