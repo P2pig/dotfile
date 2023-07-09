@@ -8,6 +8,7 @@ set colorcolumn=+1
 autocmd FileType gitcommit set colorcolumn+=51
 autocmd Filetype make setlocal noexpandtab
 
+set hidden
 set nu
 set relativenumber
 highlight ColorColumn ctermbg=8
